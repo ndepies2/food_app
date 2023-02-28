@@ -12,7 +12,7 @@ import store from './src/redux/store'
 
 export default function App() {
 
-  const Stack = createNativeStackNavigator();
+  const Stack = createNativeStackNavigator();//hello
   const loggedIn = true;
 
   return (
